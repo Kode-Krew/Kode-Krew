@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   week-long hackathon during 2021! We are a
   group of friends learning and having fun!
 baseurl: "/" 
-url: "https://kode-krew.github.io/kode-krew/" 
+url: "https://kode-krew.github.io/Kode-Krew/" 
 github_username:  Kode-Krew
 
 sass:
