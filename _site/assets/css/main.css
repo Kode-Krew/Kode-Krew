@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap");
+.nav-bar { width: 100%; display: inline-block; background-color: #1C539F; font-family: "Poppins", serif; font-weight: 700 !important; padding-top: 10px; }
+
+.nav-content .logo-touch-target { display: inline-flex; height: 60%; width: 350px; }
+
+.nav-content .nav-logo { height: 60px; margin: auto; }
+
+.nav-logo { display: flex; align-items: center; justify-content: center; }
+
+.nav-logo img { width: 200px; }
+
+.nav-content nav { display: block; width: 100%; text-align: right; padding-top: 0px; padding-right: 0px; }
+
+.profile { background-color: #1d539f !important; background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), url("https://i.imgur.com/GqPelu1.png"); text-align: center; height: 320px; margin-bottom: 50px; }
+
+.profile h1 { font-size: 50px; font-weight: 700; color: white; }
+
+.profile img { border-radius: 50%; max-width: 100%; max-height: 100%; margin-left: auto; margin-right: auto; display: block; padding: 20px; }
+
+.profile .profile-picture { margin-bottom: 0px; height: 200px; }
+
+p, h1, h2, h3, h4, h5, h6, button { font-family: "Open Sans", serif; }
+
+h2 { font-size: large; }
+
+body { background-color: #48A2B8 !important; background-size: cover; width: auto !important; overflow-x: hidden !important; font-family: "Open Sans", serif; }
+
+.banner { padding: 20px 0px 50px 0px; height: 150px; background-color: #1d539f; }
+
+.banner .logo { max-width: 180px; max-height: 60px; width: auto; height: auto; }
+
+.banner .title { color: white; font-size: 50px; font-weight: 700; }
+
+.page { text-align: left; }
+
+.page h1 { text-align: left !important; font-weight: 800 !important; color: black; margin-bottom: 0.7em; }
+
+.page h2 { text-align: left !important; font-weight: 800 !important; color: black; margin-bottom: 0.5em; }
+
+.page h3 { font-weight: 600 !important; text-align: left !important; color: black; font-size: 1.3rem; }
+
+.page h4 { font-weight: 600 !important; text-align: center !important; color: black; }
+
+.page p { color: black; font-weight: 500; font-size: large; }
+
+.page td { color: black; }
+
+.page th { color: black; }
+
+.page li { color: black; }
+
+.page a { color: black; }
+
+.page a:hover { color: aqua; }
+
+.page code { color: #17a2b8; }
+
+hr { background-color: white; padding: 1px; margin-top: 1em !important; margin-bottom: 1em !important; }
+
+@media screen and (max-width: 768px) { .banner { padding: 20px 0px 20px 0px; height: 110px; } .banner .logo { max-width: 150px; max-height: 60px; width: auto; height: auto; } .banner .title { color: white; font-size: 30px; font-weight: 700; } .page h1 { font-size: 1.5rem !important; } .page h2 { font-size: 1.2rem !important; } .page h4 { font-size: 0.8rem !important; } }
+
+.card-container { display: grid; grid-template-columns: repeat(4, 1fr); font-family: "Open Sans", sans-serif; }
+
+@media only screen and (max-width: 1500px) { .card-container { grid-template-columns: repeat(3, 1fr); } }
+
+@media only screen and (max-width: 1000px) { .card-container { grid-template-columns: repeat(2, 1fr); } }
+
+@media only screen and (max-width: 768px) { .card-container { grid-template-columns: 1fr; } }
+
+body { background-color: #42B8B7; margin-bottom: 50px; }
+
+h2 { margin-bottom: 20px; margin-top: 20px; font-weight: 700; font-size: x-large; text-align: center; color: black; }
+
+.card { display: flex; flex-direction: row; align-items: center; margin: 20px 30px; background-color: #A3DDEC; border-radius: .375rem; padding: 1.5em; font-size: 1.2em; }
+
+a { color: black; }
+
+.info p { margin-top: 5px; margin: 0px; text-align: left; color: black; }
+
+.info .title { font-size: 500; font-weight: bold; color: black; }
+
+.info .location { font-size: medium; font-weight: 400; color: black; }
+
+.info .dates { font-size: small; color: black; }
+
+.icon { width: 70px; height: 70px; margin-right: 20px; padding: 10px; }
+
+.icon img { width: 100%; }
+
+/*# sourceMappingURL=main.css.map */

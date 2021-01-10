@@ -1,5 +1,6 @@
 .profile {
     background-color: #1d539f !important;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)), url("https://i.imgur.com/GqPelu1.png");
     text-align: center;
     height: 320px;
     margin-bottom: 50px;
@@ -20,7 +21,7 @@
     }
     
     .profile-picture {
-        margin-bottom: 30px;
+        margin-bottom: 0px;
         height: 200px;
     }
 }
