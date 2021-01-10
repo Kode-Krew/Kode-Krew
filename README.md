@@ -1,3 +1,7 @@
+# Kode Krew Website!
+
+This is a site made for the Kode Krew guild during a "Create a Personal Site with GitHub Pages" event that was livestreamed on [Twitch](https://www.twitch.tv/mlh) for the MLH LHD: Build Hackathon week!.
+
 # Portfolio Template
 
 This is a Jekyll website template designed for Explorer Fellows. During the Fellowship, you'll generate a number of projects 
