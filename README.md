@@ -1,6 +1,7 @@
-# Kode Krew Website!
+# [Kode Krew Website!](https://kode-krew.github.io/Kode-Krew/)
 
-This is a site made for the Kode Krew guild during a "Create a Personal Site with GitHub Pages" event that was livestreamed on [Twitch](https://www.twitch.tv/mlh) for the MLH LHD: Build Hackathon week!.
+This is a site made for the Kode Krew guild during a "Create a Personal Site with GitHub Pages" event that was livestreamed on [Twitch](https://www.twitch.tv/mlh) for the MLH LHD: Build Hackathon week!.  
+The Kode Krew site is hosted with GitHub Pages at: https://kode-krew.github.io/Kode-Krew/
 
 # Portfolio Template
 
